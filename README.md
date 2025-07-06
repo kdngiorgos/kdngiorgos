@@ -17,7 +17,7 @@ I've organized my work into three main repositories:
 
 - 🏛️ **CEID Projects**: Academic projects from my university journey
 - 🛠️ **Personal Projects**: Where creativity meets code - my playground for ideas
-- 🎮 **GameDEV**: Because sometimes you need to build worlds, not just applications
+- 🎮 **GameDEV**: Simple games I make to replace my desire for gaming with
 
 ## 🌱 What I'm Up To
 
