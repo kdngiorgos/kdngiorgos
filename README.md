@@ -29,7 +29,7 @@ I've organized my work into three main repositories:
 
 ## 🏆 My Cyber Journey
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kdngiorgos.png)](https://tryhackme.com/p/kdngiorgos)
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3458507)](https://tryhackme.com/p/kdngiorgos)
 
 # 💬 Contact
 
