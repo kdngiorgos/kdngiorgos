@@ -24,7 +24,7 @@ I've organized my work into three main repositories:
 - 🔭 **Currently working on**: Expanding my cybersecurity knowledge while balancing engineering studies
 - 🌱 **Currently learning**: Security engineering, secure coding practices and security architecture
 - 👯 **Looking to collaborate on**: Cybersecurity projects, CTF teams, and innovative ideas
-- 💬 **Ask me about**: Cybersecurity, computer engineering or my handsome cats 🐈
+- 💬 **Ask me about**: Cybersecurity, computer engineering or my cat 🐈
 - ⚡ **Fun fact**: I collect random knowledge like it's Pokémon
 
 ## 🏆 My Cyber Journey
