@@ -8,15 +8,7 @@ Hey there! I'm **kdngiorgos** and this is my GitHub profile - your gateway to my
 - **Currently studying**: **Computer Engineering** && **Cybersecurity**
 - **Leadership Role**: Lead Coordinator of the **Cybersecurity** SIG and **Executive Member** of ACM SB UPatras 
 - **CTF Enthusiast**: I participate in CTFs (not as many as I'd like)
-
-## 🗂️ My Repository Collection
-
-I've organized my work into three main repositories:
-
-- 🏛️ **CEID Projects**: Academic projects from my university
-- 🛠️ **Personal Projects**: My playground for ideas
-- 🎮 **GameDEV**: Simple games I make to replace my desire for gaming with
-
+- 
 ## What I'm Up To
 
 - **Target Role**: Cybersecurity Engineer (Security Engineer) 
