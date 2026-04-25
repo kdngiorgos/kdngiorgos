@@ -1,5 +1,4 @@
-<h1 align="center"> ! Open for Internship ! </h1>
-<h2 align="center">Hello There!</h2>
+<h1 align="center">Hello There!</h1>
 
 Hey there! I'm **kdngiorgos** and this is my GitHub profile - your gateway to my coding adventures! When I first started my journey in Computer Science I used to think of programmers (and tech people in general) as geeks that don't care about looks, but have since realised that they love pretty things, so here is a ✨lovely✨ README.md for ya 
 
