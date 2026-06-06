@@ -19,8 +19,9 @@ Hey there! I'm **kdngiorgos** and this is my GitHub profile - your gateway to my
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kdngiorgos.png)](https://tryhackme.com/p/kdngiorgos)
 
-# 💬 Contact
+[**My website**](https://www.kdngiorgos.site/)
 
+# 💬 Contact
 - You can contact me on **kdngiorgos@gmail.com** or through my socials
 - **LinkedIn**: [Kandilas Giorgos](https://www.linkedin.com/in/kdngiorgos/)
 - **Instagram**: [@_kdngiorgos_](https://www.instagram.com/_kdngiorgos_/)
