@@ -28,12 +28,12 @@
 |---|---|
 | 🥈 **CSCG 2026** | 2nd of ~400. Binary exploitation, web, network pentesting (team `t34m_n4m3`) |
 | 🌍 **Invent for the Planet 2025** | 1st place at the local hub with **Demetra**, an AgTech app on satellite and sensor data. Co-founded it and led a team of five from idea to MVP in 8 months |
-| 🎓 **Panhellenic exams 2024** | Ranked 2nd nationally |
-| 🔐 **ISC2 Certified in Cybersecurity** | Plus PwC Greece Software Academy (Python, Node, PostgreSQL, FastAPI, Docker) |
-| 💼 **SacredByte GmbH, Berlin** | IT Systems & Security consultant (remote). Vendor evaluation and a secure baseline for SMB clients |
-| 🏋️ **Weightlifting** | Greek high-school national champion 2023, 176 kg total at 81 kg bodyweight |
+| 💼 **SacredByte GmbH, Berlin** | IT systems & security administrator (remote). Secure baseline for SMB clients (Google Workspace hardening, MDM, access control) and a vendor evaluation across 20+ criteria |
+| 🛡️ **ISSG Hacking Group, UPatras** | Admitted through a CTF challenge set and a live technical interview |
+| 🔐 **ISC2 Certified in Cybersecurity** | 2025. Plus the PwC Greece Software Academy (Python, Node, PostgreSQL, FastAPI, Docker) |
+| 🏋️ **Weightlifting** | Greek national champion at school level (2023), 176 kg total at 81 kg bodyweight |
 
-Also a member of the ISSG Hacking Group (UPatras), IEEE and EESTEC, and a Linux admin volunteer for the Greek ICPC regional.
+Also active in IEEE and EESTEC, and a volunteer Linux admin for the regional programming contest held in Patras.
 
 ### Things you can open
 
